@@ -1,6 +1,6 @@
 |Номер студента|Ссылка на  репорзиторизий студента|
 |--------------|----------------------------------|
-|PI_32_124334|link|
+|PI_32_124334|(https://github.com/leraborodaneva/vb|
 |PI_32_124336|link|
 |PI_32_124229|link|
 |PI_32_136667|link|
@@ -9,7 +9,7 @@
 |PI_32_124254|link|
 |PI_32_124094|link|
 |PI_32_124338|link|
-|PI_32_124323|link|
+|PI_32_124323|https://github.com/TenReik/PI-4-2-Larionov-Igor|
 |PI_32_124332|link|
 |PI_32_123427|https://github.com/Kalzaver/PrivateRepo.git|
 |PI_32_123971|link|
@@ -28,4 +28,4 @@
 |PI_32_124327|link|
 |PI_32_118890|link|
 |PI_32_124832|link|
-|PI_32_107691|link|
+|PI_32_107691|https://github.com/radixiura/stefguu.git|
