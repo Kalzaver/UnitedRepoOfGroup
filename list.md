@@ -1,11 +1,11 @@
 |Номер студента|Ссылка на  репорзиторизий студента|
 |--------------|----------------------------------|
-|PI_32_124334|(https://github.com/leraborodaneva/vb|
+|PI_32_124334|https://github.com/leraborodaneva/vb|
 |PI_32_124336|link|
 |PI_32_124229|link|
 |PI_32_136667|link|
 |PI_32_123380|link|
-|PI_32_124320|link|
+|PI_32_124320|https://github.com/SAL4N/HW-Dubrovin-Ilya-ESSAY-676|
 |PI_32_124254|link|
 |PI_32_124094|link|
 |PI_32_124338|link|
