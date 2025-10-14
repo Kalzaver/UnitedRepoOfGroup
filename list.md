@@ -13,7 +13,7 @@
 |PI_42_124332|link|
 |PI_42_123427|https://github.com/Kalzaver/PrivateRepo.git|
 |PI_42_123971|link|
-|PI_42_124317|link|
+|PI_42_124317|https://github.com/mosoveru/guu-project-workshop|
 |PI_42_124326|link|
 |PI_42_121944|link|
 |PI_42_136697|link|
