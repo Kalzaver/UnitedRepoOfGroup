@@ -8,7 +8,7 @@
 |PI_42_124320|https://github.com/SAL4N/HW-Dubrovin-Ilya-ESSAY-676|
 |PI_42_124254|link|
 |PI_42_124094|link|
-|PI_42_124338|link|
+|PI_42_124338|https://github.com/matkrest/guu-project-workshop|
 |PI_42_124323|https://github.com/TenReik/PI-4-2-Larionov-Igor|
 |PI_42_124332|link|
 |PI_42_123427|https://github.com/Kalzaver/PrivateRepo.git|
