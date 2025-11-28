@@ -28,4 +28,4 @@
 |PI_42_124327|link|
 |PI_42_118890|отчислен|
 |PI_42_124832|link|
-|PI_42_107691|https://github.com/radixiura/stefguu.git|
+|PI_42_107691|https://github.com/radixiura/gaudeamus|
