@@ -16,7 +16,7 @@
 |PI_42_124317|https://github.com/mosoveru/guu-project-workshop|
 |PI_42_124326|link|
 |PI_42_121944|link|
-|PI_42_136697|link|
+|PI_42_136697|https://github.com/Platon-Ponomarchuk/cocept_Diplom|
 |PI_42_136686|https://github.com/kotpodlawkoy|
 |PI_42_123610|link|
 |PI_42_124315|link|
